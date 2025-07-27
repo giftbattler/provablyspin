@@ -1,0 +1,19 @@
+{
+  "players": [
+    {
+      "id": "player1", 
+      "name": "Alice",
+      "stake": 100
+    },
+    {
+      "id": "player2",
+      "name": "Bob", 
+      "stake": 200
+    },
+    {
+      "id": "player3",
+      "name": "Charlie",
+      "stake": 300
+    }
+  ]
+}
