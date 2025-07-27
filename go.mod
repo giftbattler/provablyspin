@@ -1,4 +1,4 @@
-module gitlab.com/giftbattles/provablyspin
+module github.com/giftbattler/provablyspin
 
 go 1.24
 

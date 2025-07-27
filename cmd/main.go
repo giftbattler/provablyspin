@@ -6,7 +6,7 @@ import (
 	"encoding/hex"
 	"encoding/json"
 	"fmt"
-	"gitlab.com/giftbattles/provablyspin"
+	"github.com/giftbattler/provablyspin"
 	"log"
 	"os"
 	"path/filepath"
